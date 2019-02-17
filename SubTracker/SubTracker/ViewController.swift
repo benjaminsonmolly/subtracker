@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
+    @IBAction func addSubButton(_ sender: UIButton) {
+    }
+    
+    @IBAction func remindButton(_ sender: UIButton) {
+    }
 }
 
